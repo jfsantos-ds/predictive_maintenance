@@ -1,0 +1,6 @@
+# Private datasets
+wind/data/example_raw_data.csv
+wind/data/example_clean.csv
+
+# Logs
+run_logs/*
