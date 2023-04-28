@@ -4,3 +4,6 @@ wind/data/example_clean.csv
 
 # Logs
 run_logs/*
+
+# IDE stuff
+.vs/*
