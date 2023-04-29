@@ -4,6 +4,8 @@ scikit-learn
 matplotlib
 seaborn
 scipy
+combo
 pyod
 phik
 PyWavelets
+xgboost
